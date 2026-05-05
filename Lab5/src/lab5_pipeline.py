@@ -1,7 +1,6 @@
 # CS4074 Lab 5 -- NYC Taxi Analytics Pipeline
 # Student Name : Hams Aljohani
 # Student ID   : S20106833
-# Date         : 2024
 
 import os, time
 from pyspark.sql import SparkSession
